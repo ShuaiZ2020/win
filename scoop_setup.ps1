@@ -4,3 +4,4 @@ scoop install 7zip
 scoop install googlechrome
 scoop install vscode
 scoop install python39
+scoop install potplayer
