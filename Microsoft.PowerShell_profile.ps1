@@ -20,5 +20,8 @@ function disvpn
 function lol{
     &"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\League of Legends.lnk"
 }
+function ocr{
+    python3 "~\OneDrive\code\python\ocr.py"
+}
 $startup="C:\Users\zhu-s\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 $code="~\OneDrive\code"
